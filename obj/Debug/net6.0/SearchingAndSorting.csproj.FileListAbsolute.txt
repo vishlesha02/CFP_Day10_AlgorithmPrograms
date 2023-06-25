@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\bin\Debug\net6.0\SearchingAndSorting.exe
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\bin\Debug\net6.0\SearchingAndSorting.deps.json
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\bin\Debug\net6.0\SearchingAndSorting.runtimeconfig.json
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\bin\Debug\net6.0\SearchingAndSorting.dll
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\bin\Debug\net6.0\SearchingAndSorting.pdb
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.dll
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\refint\SearchingAndSorting.dll
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.pdb
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\SearchingAndSorting.genruntimeconfig.cache
+C:\Users\DELL\source\repos\SearchingAndSorting\SearchingAndSorting\obj\Debug\net6.0\ref\SearchingAndSorting.dll
