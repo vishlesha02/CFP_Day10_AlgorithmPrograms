@@ -37,7 +37,8 @@ namespace SearchingAndSorting
                     return;
                 }
             }
-            Console.WriteLine("It is ana Anagram");
+            Console.WriteLine("It is an Anagram");
+           
 
         }
     }
