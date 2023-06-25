@@ -26,8 +26,11 @@ namespace AlgorithmProblems
             obj3.BuSort();
             Console.WriteLine();
 
+            InsertionSort obj4 = new InsertionSort();
+            Console.WriteLine("Insertion Sort : ");
+            obj4.InSort();
+            Console.WriteLine();
 
-        
         }
     }
 }
