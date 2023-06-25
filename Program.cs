@@ -11,10 +11,14 @@ namespace AlgorithmProblems
     {
         public static void Main(string[] args) 
         {
-            PrimeNumber prime =new PrimeNumber();
-
+            PrimeNumber obj =new PrimeNumber();
             Console.WriteLine("1 to 100 Prime Numbers");
-            prime.Prime();
+            obj.Prime();
+
+            Anagram obj2=new Anagram();
+            Console.WriteLine("Check the Anagram ");
+            obj2.Word();
+
 
         
         }
