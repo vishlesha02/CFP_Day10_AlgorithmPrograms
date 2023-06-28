@@ -31,6 +31,10 @@ namespace AlgorithmProblems
             obj4.InSort();
             Console.WriteLine();
 
+            BinarySearch obj5=new BinarySearch();
+            Console.WriteLine("Binary Search : ");
+            obj5.BiSearch();
+            Console.WriteLine();
         }
     }
 }
